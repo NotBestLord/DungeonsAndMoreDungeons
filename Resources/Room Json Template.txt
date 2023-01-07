@@ -1,9 +1,0 @@
-Room Arguments:
-	Enemy Rooms:
-		"enr" (ENenmy Room)
-		"_"
-		"[MIN_NUM]-[MAX_NUM]" (NUM of enemies)
-		";"                    |
-		"[ENEMY_TYPE]"         | this is repeatable
-		":"					   |
-		"[PERCENT_OF_ENEMIES]" |
