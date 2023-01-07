@@ -1,0 +1,8 @@
+hud health & special charge bars have offset of 64 after length calculation;
+
+------ draw bottom to top
+hud overlay
+hud charge
+hud health
+hud empty
+------
