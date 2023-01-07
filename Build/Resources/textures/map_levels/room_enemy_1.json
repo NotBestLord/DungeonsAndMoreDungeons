@@ -1,0 +1,114 @@
+{
+  "tileSize": 16,
+  "collision": [
+	{
+	  "min": {
+		"x": 10,
+		"y": 10
+	  },
+	  "max": {
+		"x": 30,
+		"y": 30
+	  }
+	}
+  ],
+  "startPos": {
+	"x": 20,
+	"y": 29
+  },
+  "exitBox": {
+	  "min": {
+		"x": 19,
+		"y": 10
+	  },
+	  "max": {
+		"x": 21,
+		"y": 11
+	  }
+  },
+  "decorations": [
+	{
+	  "key": "map_torch_1",
+	  "x": 10.5,
+	  "y": 10.5
+	},
+	{
+	  "key": "map_torch_1",
+	  "x": 29.5,
+	  "y": 10.5
+	},
+	{
+	  "key": "map_torch_1",
+	  "x": 29.5,
+	  "y": 29.5
+	},
+	{
+	  "key": "map_torch_1",
+	  "x": 10.5,
+	  "y": 29.5
+	},
+	{
+	  "key": "map_crate_2",
+	  "x": 12,
+	  "y": 13
+	},
+	{
+	  "key": "map_crate_2",
+	  "x": 28,
+	  "y": 28
+	},
+	{
+	  "key": "map_crate_3",
+	  "x": 27.5,
+	  "y": 13
+	},
+	{
+	  "key": "map_crate_3",
+	  "x": 28.5,
+	  "y": 18
+	},
+	{
+	  "key": "map_crate_3",
+	  "x": 11.5,
+	  "y": 21
+	},
+	{
+	  "key": "map_rock_2",
+	  "x": 12,
+	  "y": 14.5
+	},
+	{
+	  "key": "map_rock_2",
+	  "x": 13,
+	  "y": 28.5
+	},
+	{
+	  "key": "map_rock_2",
+	  "x": 28,
+	  "y": 23.5
+	},
+	{
+	  "key": "map_barrel_1",
+	  "x": 11.5,
+	  "y": 17
+	},
+	{
+	  "key": "map_barrel_1",
+	  "x": 11.5,
+	  "y": 19
+	},
+	{
+	  "key": "map_barrel_1",
+	  "x": 12.5,
+	  "y": 18
+	},
+	{
+	  "key": "map_torch_1",
+	  "x": 20,
+	  "y": 20
+	}
+  ],
+  "roomArgs": [
+	"enr_2-3;slime_blue:1"
+  ]
+}

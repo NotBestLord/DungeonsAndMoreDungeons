@@ -1,0 +1,35 @@
+{
+  "path": "textures/animated/totem_fire.png",
+  "rows": 5,
+  "columns": 7,
+  "sprites": {
+    "": {
+      "frames": [
+        0,1,2,3,4,5
+      ],
+      "nextFrameTime": 0.1,
+      "looping": true
+    },
+    "spawn": {
+      "frames": [
+        7,8,9,10,11,12
+      ],
+      "nextFrameTime": 0.15,
+      "looping": false
+    },
+    "attack": {
+      "frames": [
+        14,15,16,17,18,19
+      ],
+      "nextFrameTime": 0.15,
+      "looping": false
+    },
+    "death": {
+      "frames": [
+        28,29,30,31,32,33,34
+      ],
+      "nextFrameTime": 0.15,
+      "looping": false
+    }
+  }
+}

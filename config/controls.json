@@ -1,0 +1,32 @@
+{
+  "keyCodes": {
+    "ability_2": 50,
+    "ability_1": 49,
+    "ability_4": 52,
+    "sprint": 16,
+    "ability_tree": 75,
+    "ability_3": 51,
+    "move_right": 68,
+    "pause": 27,
+    "move_up": 87,
+    "move_down": 83,
+    "ability_5": 53,
+    "dash": 32,
+    "move_left": 65
+  },
+  "keys": {
+    "32": "dash",
+    "65": "move_left",
+    "68": "move_right",
+    "75": "ability_tree",
+    "16": "sprint",
+    "49": "ability_1",
+    "50": "ability_2",
+    "83": "move_down",
+    "51": "ability_3",
+    "52": "ability_4",
+    "53": "ability_5",
+    "87": "move_up",
+    "27": "pause"
+  }
+}

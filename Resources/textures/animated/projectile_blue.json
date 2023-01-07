@@ -1,0 +1,14 @@
+{
+  "path": "textures/animated/projectile_blue.png",
+  "rows": 1,
+  "columns": 6,
+  "sprites": {
+    "": {
+      "frames": [
+        0,1,2,3,4,5
+      ],
+      "nextFrameTime": 0.075,
+      "looping": true
+    }
+  }
+}

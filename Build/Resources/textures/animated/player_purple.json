@@ -1,0 +1,44 @@
+{
+  "path": "textures/animated/player_purple.png",
+  "rows": 18,
+  "columns": 8,
+  "sprites": {
+    "": {
+      "frames": [
+        56,57,58,59,60,61
+      ],
+      "nextFrameTime": 0.3,
+      "looping": true
+    },
+    "walking": {
+      "frames": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "nextFrameTime": 0.2,
+      "looping": true
+    },
+    "running": {
+      "frames": [
+        72,73,74,75,76,77,78,79
+      ],
+      "nextFrameTime": 0.2,
+      "looping": true
+    },
+    "melee_attack": {
+      "frames": [
+        64,65,66,67,68,69,70,71
+      ],
+      "nextFrameTime": 0.125,
+      "looping": false
+    }
+  }
+}
